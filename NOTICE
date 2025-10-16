@@ -5,7 +5,56 @@ Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+sentencepiece
+https://github.com/google/sentencepiece
+License: Apache 2.0
+http://www.apache.org/licenses/
+
+nltk
+https://github.com/nltk/nltk
+License: Apache 2.0
+http://www.apache.org/licenses/
+
+tensorflow
+https://github.com/tensorflow/tensorflow
+License: Apache 2.0
+http://www.apache.org/licenses/
+
+keras
+https://github.com/keras-team/keras
+License: Apache 2.0
+http://www.apache.org/licenses/
+
+transformers
+https://github.com/huggingface/transformers
+License: Apache 2.0
+http://www.apache.org/licenses/
+
+rouge-score
+https://github.com/google-research/google-research/tree/master/rouge
+License: Apache 2.0
+http://www.apache.org/licenses/
+
+datasets
+https://github.com/huggingface/datasets
+License: Apache 2.0
+http://www.apache.org/licenses/
+
+tf-keras
+https://github.com/tensorflow/tensorflow
+License: Apache 2.0
+http://www.apache.org/licenses/
+
+torch
+https://github.com/pytorch/pytorch
+License: BSD-3-Clause
+https://opensource.org/licenses/BSD-3-Clause
+
+evaluate
+https://github.com/huggingface/evaluate
+License: Apache 2.0
+http://www.apache.org/licenses/
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
